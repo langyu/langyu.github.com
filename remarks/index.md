@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 畅言
-comments: no
 ---
 
 
