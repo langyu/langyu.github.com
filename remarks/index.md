@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 畅言
-comment: true
+comment: yes
 thread: 616
 ---
 
