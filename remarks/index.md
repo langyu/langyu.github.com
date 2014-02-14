@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 畅言
+comment: true
+thread: 616
 ---
 
 
