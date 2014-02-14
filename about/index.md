@@ -9,7 +9,7 @@ comments: no
 
 Bitcoin痴迷者，爱好Bitcoin一切技术相关内容            
 
-目前从事Linux C/C++ 高性能服务器开发
+目前从事Linux C/C++ 开发
 
 ---
 
